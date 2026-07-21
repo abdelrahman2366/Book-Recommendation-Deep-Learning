@@ -1,0 +1,12 @@
+venv/
+.vscode/
+images/
+outputs/
+
+*.keras
+*.h5
+*.pth
+*.pt
+
+__pycache__/
+.ipynb_checkpoints/
